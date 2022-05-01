@@ -1,0 +1,7 @@
+Drink.js -> Class
+DrinksContainer.js -> Function
+DrinksMenu.js -> Function
+
+Dish.js -> Class
+DishMenu.js -> Function
+MainCourse.js -> Function
